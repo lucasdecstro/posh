@@ -12,9 +12,10 @@ A blend of [Vesper++](https://marketplace.visualstudio.com/items?itemName=Obstin
 
 1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=lucasdecastro.posh)
 2. Go to `File > Preferences > Color Theme`
-3. Select `Min Dark` or `Min Light`
+3. Select `Posh`
 
 Install via CLI:
+
 ```
 code --install-extension lucasdecastro.posh
 ```
