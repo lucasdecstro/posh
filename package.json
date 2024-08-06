@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/lucasdecstro/posh"
     },
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -20,6 +20,11 @@
         "label": "Posh",
         "uiTheme": "vs-dark",
         "path": "./themes/Posh-color-theme.json"
+      },
+      {
+        "label": "Posh Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Posh Modern-color-theme.json"
       }
     ]
   }
