@@ -276,7 +276,7 @@
     {
       "scope": "string.quoted.binary.single.python",
       "settings": {
-        "foreground": "#A8CC7C",
+        "foreground": "#EFB080",
         "fontStyle": ""
       }
     },
@@ -296,7 +296,7 @@
     {
       "scope": "keyword.control.directive",
       "settings": {
-        "foreground": "#A8CC7C"
+        "foreground": "#EFB080"
       }
     },
     {
@@ -858,7 +858,7 @@
     {
       "scope": "keyword.control.directive.include.cpp",
       "settings": {
-        "foreground": "#A8CC7C"
+        "foreground": "#EFB080"
       }
     },
     {
@@ -1321,13 +1321,13 @@
     {
       "scope": "meta.function.decorator.python",
       "settings": {
-        "foreground": "#A8CC7C"
+        "foreground": "#EFB080"
       }
     },
     {
       "scope": "punctuation.definition.decorator.python,entity.name.function.decorator.python",
       "settings": {
-        "foreground": "#A8CC7C",
+        "foreground": "#EFB080",
         "fontStyle": ""
       }
     },
