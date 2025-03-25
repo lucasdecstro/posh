@@ -2,7 +2,7 @@
 
 # Posh
 
-A blend of [Vesper++](https://marketplace.visualstudio.com/items?itemName=Obstinate.vesper-pp) and [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme) designed to create a calm and focused coding environment, featuring soothing color schemes and optimized contrast to reduce eye strain and enhance readability. Ideal for long coding sessions and improving overall productivity.
+A theme designed to create a calm and focused coding environment, blending soothing pastel tones with optimized contrast to reduce eye strain and enhance readability. Ideal for long coding sessions and boosting overall productivity.
 
 <img src="screenshot.png" alt="Posh Theme" />
 

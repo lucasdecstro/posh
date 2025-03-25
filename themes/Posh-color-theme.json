@@ -123,7 +123,7 @@
     "tab.activeForeground": "#E8E8E8",
     "tab.border": "#181818",
     "tab.activeBackground": "#181818",
-    "tab.activeBorder": "#181818",
+    "tab.activeBorder": "#363636",
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#181818",
     "tab.inactiveForeground": "#727272",
