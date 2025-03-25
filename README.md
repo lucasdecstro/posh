@@ -4,7 +4,7 @@
 
 A theme designed to create a calm and focused coding environment, blending soothing pastel tones with optimized contrast to reduce eye strain and enhance readability. Ideal for long coding sessions and boosting overall productivity.
 
-<img src="screenshot.png" alt="Posh Theme" />
+<img src="posh.png.png" alt="Posh Theme" />
 
 </div>
 
